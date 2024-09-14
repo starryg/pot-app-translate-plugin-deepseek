@@ -1,9 +1,9 @@
 {
-  "id": "plugin.com.pot-app.lingva",
+  "id": "plugin.com.pot-app.deepseek",
   "plugin_type": "translate",
   "icon": "lingva.svg",
-  "display": "Lingva",
-  "homepage": "https://github.com/pot-app/pot-app-translate-plugin-template",
+  "display": "DeepSeek",
+  "homepage": "https://github.com/starryg/pot-app-translate-plugin-deepseek",
   "needs": [{ "key": "requestPath", "display": "请求地址" }],
   "language": {
     "auto": "auto",
